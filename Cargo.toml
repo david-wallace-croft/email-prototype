@@ -1,0 +1,22 @@
+[package]
+authors = ["David Wallace Croft <david@CroftSoft.com>"]
+# Use the categories from https://crates.io/categories
+# categories = ["category-name"]
+description = "Email prototype"
+edition = "2021"
+homepage = "https://www.CroftSoft.com/"
+# https://doc.rust-lang.org/cargo/reference/manifest.html#the-keywords-field
+# keywords = ["keyword"]
+# Remark this line out if your project is not open source
+license = "MIT"
+name = "email-prototype"
+# Change this value to true when you publish to crates.io
+publish = false
+readme = "README.md"
+# Remark this line out if your project is not in a code repository
+repository = "https://github.com/david-wallace-croft/email-prototype"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
